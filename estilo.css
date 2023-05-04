@@ -1,0 +1,37 @@
+.ancho{
+    margin: auto;
+    max-width: 1200px;
+}
+.primera{
+    background-color: lightgray;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+.primera img{
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    
+
+}
+.menu a{
+    text-decoration: none;
+    padding: 20px;
+    border: 1px blue solid;
+    justify-content: space-between;
+}
+.menuo a{
+    background-color: blue;
+    padding: 5px;
+    border-radius: 2px;
+}
+.menuo i{
+    color: white;
+}
